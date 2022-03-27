@@ -1,3 +1,1 @@
-# python-dla-testerow
-zadania
-ffd
+ściągnij pliki i uruchom requirments.txt
